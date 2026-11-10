@@ -14,7 +14,7 @@ const COMPANY_DATA = {
     completo: "AVENIDA SÃO JOÃO, 184, SÃO JOÃO, CATALÃO - GO, CEP 75703-140"
   },
   contato: {
-    email: "contato@bmcontabeis.com.br",
+    email: "contato@bmcontabilidade.online",
     telefone: "(64) 3040-5280",
     telefoneLocal: "(64) 3040-5280",
     telefoneLink: "+556430405280"
